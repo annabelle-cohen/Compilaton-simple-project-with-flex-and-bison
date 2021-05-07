@@ -1,0 +1,17 @@
+Input description
+The input includes a list of tennis players. The data appears for each actor or actress
+Next: The name of the actor or actress, the gender (man or woman), the years he won
+At the Wimbledon tournament and the years he won the Australian Open.
+The last two details are optional. For example in the example given below,
+For Halep Simona missing the part of the Australian Open) where ever
+Did not win.
+The winning years appear as a list of comma-separated years.
+In short, a period of years, for example 1987-1982, may also appear
+ 1982, 1983, 1984, 1985, 1986, 1987 of this abbreviation
+
+Whitespace (spaces, goodies and newlines can also appear in the input
+
+Write with the help of flex and bison a program that reads input that includes information
+On the victories of tennis players in various tournaments.
+It will print the name of the player who has won the highest number of
+Wimbledon tournaments.
